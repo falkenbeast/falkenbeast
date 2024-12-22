@@ -1,14 +1,15 @@
 
+
+
 [![MasterHead](https://cdn-images-1.medium.com/v2/resize:fill:1600:480/gravity:fp:0.5:0.4/1*zy5IG2inEQSqeWyPJ7vo-g.gif
 )]
 
-
 <h1 align="center">Hi 👋, I'm Ayush Srivastava</h1>
-<h3 align="center">Hey there 👋, I'm Ayush Srivastava. I'm a passionate developer who is continuously honing my skills and knowledge. As a Computer Science student, I'm specializing in Android app development and working towards becoming proficient in mobile development.</h3>
+<h3 align="center">Hey there 👋, I'm Ayush Srivastava. I'm a passionate developer continuously honing my skills and knowledge. As a Computer Science student, I'm specializing in Android app development and working towards becoming proficient in mobile development.</h3>
 
-<img align = "right" alt = "Coding" width = "400" src= " https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
+<img align = "right"  width = "400" src= " https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
 
- 
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=falkenbeast" alt="falkenbeast" /></a> </p>
 
@@ -18,10 +19,14 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/falkenbeast](https://github.com/falkenbeast)
 
+- 📫 How to reach me **31ayushsrivastava2005@gmail.com**
+
+- ⚡ Fun fact **My stage name or social media name is Falkenbeast**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/beastfalken" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="beastfalken" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ayush srivastava" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush srivastava" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ayush-srivastava-825767287?original_referer=https%3a%2f%2fwww.google.com%2f" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayush-srivastava-825767287?original_referer=https%3a%2f%2fwww.google.com%2f" height="30" width="40" /></a>
 <a href="https://instagram.com/falkenbeast" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="falkenbeast" height="30" width="40" /></a>
 </p>
 
