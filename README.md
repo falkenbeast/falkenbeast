@@ -5,15 +5,13 @@
 )]
 
 <h1 align="center">Hi 👋, I'm Ayush Srivastava</h1>
-<h3 align="center">Hey there 👋, I'm Ayush Srivastava. I'm a passionate developer continuously honing my skills and knowledge. As a Computer Science student, I'm specializing in Android app development and working towards becoming proficient in mobile development.</h3>
+<h3 align="center">Hey there 👋, I'm Ayush Srivastava. I'm a passionate developer who is continuously honing my skills and knowledge. As a Computer Science student, I'm specializing in Android app development and working towards becoming proficient in mobile development.</h3>
 
-<img align = "right"  width = "400" src= " https://gifdb.com/images/high/animated-man-computer-coding-nae6mec378lsg1i3.gif">
+<img align = "right" alt = "coding "  width = "340" src= "https://media.tenor.com/3bTxZ4HdrysAAAAd/pixels-neon.gif">
 
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=falkenbeast" alt="falkenbeast" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/beastfalken" target="blank"><img src="https://img.shields.io/twitter/follow/beastfalken?logo=twitter&style=for-the-badge" alt="beastfalken" /></a> </p>
 
 - 🌱 I’m currently learning Android Development **Java, Kotlin, Flutter, Dart**
 
@@ -22,6 +20,10 @@
 - 📫 How to reach me **31ayushsrivastava2005@gmail.com**
 
 - ⚡ Fun fact **My stage name or social media name is Falkenbeast**
+
+- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=falkenbeast" alt="falkenbeast" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/beastfalken" target="blank"><img src="https://img.shields.io/twitter/follow/beastfalken?logo=twitter&style=for-the-badge" alt="beastfalken" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
